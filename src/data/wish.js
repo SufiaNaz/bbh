@@ -1,7 +1,12 @@
+import uzma from "../public/wishes/uzma.jpeg";
+import kahkashan from "../public/wishes/kahkasha.jpeg";
+import insha from "../public/wishes/insha.jpeg";
+import mahi from "../public/wishes/mahi.jpeg";
+
 const WishData = [
     {
       from: "Uzma ❤️",
-      image: "/wishes/uzma.jpeg",
+      image: uzma,
       message: `"Happiest Birthday to the most Amazing and beautiful girl (Gulnaz)
       May Allah bless you with lots of happiness 😊
       Allah pak tumko hamesha khush rkhe aur  kisi bhi cheez ki takleef ny hone de...
@@ -21,13 +26,13 @@ const WishData = [
   
     {
       from: "Kahkashan 🌸",
-      image: "/wishes/kahkasha.jpeg",
+      image: kahkashan,
       message: `Happy Birthday Gulnaz 💖
       May this year bring prosperity in your regard ✨`
     },
     {
         from: "Insha 🌸",
-        image: "/wishes/insha.jpeg",
+        image: insha,
         message: `Tum sirf ek dost nahi ho, tum ek pyari si doll ho
         Tumhari cuteness, tumhara caring nature aur sabka khayal rakhna - sab kuch dil jeet leta hai
         Tumhare saath har pal itna special hota hai, itna maza aata hai ke time ka pata hi nahi
@@ -40,7 +45,7 @@ const WishData = [
       },
       {
         from: "Mahi 🌸",
-        image: "/wishes/mahi.jpeg",
+        image: mahi,
         message: `Happy birthday Gulnaz 💖✨
         Hope your day is full of cute pics, loud laughs, and zero bad vibes. May this year bring you glow-ups, good friends, and everything on your wish for 🎀💫
         Stay iconic, stay sparkly, and never stop being THAT girl 💕💃🏻 `
